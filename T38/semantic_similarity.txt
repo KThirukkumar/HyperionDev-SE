@@ -5,3 +5,6 @@ on running example.py with a simpler language model
 
 Please refer to example.py within same folder for my own example 
 of comparing dog, bull, and meat
+
+Please refer to watch_next.py within the same folder on the repo
+for the contents of Compulsory Task 2
