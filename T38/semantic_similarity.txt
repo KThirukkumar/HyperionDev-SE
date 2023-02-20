@@ -1,0 +1,7 @@
+https://github.com/KThirukkumar/HyperionDev-SE/tree/main/T38
+
+Please refer to "en_core_web_sm.md" within same folder for notes 
+on running example.py with a simpler language model
+
+Please refer to example.py within same folder for my own example 
+of comparing dog, bull, and meat
